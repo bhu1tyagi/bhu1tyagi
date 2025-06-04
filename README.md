@@ -161,7 +161,7 @@ const bhuwan = {
 
 <div align="center">
   
-![Snake animation](https://raw.githubusercontent.com/bhu1tyagi/bhu1tyagi/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/bhu1tyagi/bhu1tyagi/output/neon_green.svg)
 
 </div>
 
