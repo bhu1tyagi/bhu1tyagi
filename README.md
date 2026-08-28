@@ -101,21 +101,6 @@ const bhuwan = {
 <!-- Enhanced GitHub Analytics -->
 ### 📊 GitHub Analytics
 
-<div align="center">
-  
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=bhu1tyagi&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="100%"/>
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhu1tyagi&layout=compact&langs_count=8&theme=radical&hide=html,css&hide_border=true&bg_color=0D1117" alt="Top Languages" width="100%"/>
-</td>
-</tr>
-</table>
-
-</div>
-
 <div align="center" style="margin: 20px 0;">
   
 <img src="https://streak-stats.demolab.com/?user=bhu1tyagi&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="60%"/>
@@ -126,16 +111,6 @@ const bhuwan = {
 <div align="center">
   
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhu1tyagi&theme=radical" alt="GitHub Profile Summary" width="80%"/>
-
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=bhu1tyagi&theme=radical&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -165,13 +140,6 @@ const bhuwan = {
 ---
 
 **🎉 Thanks for visiting! ⭐ Star some repositories if you found them interesting!**
-
-### 📊 Visitor Analytics
-  
-![Visitor Count](https://profile-counter.glitch.me/bhu1tyagi/count.svg)
-[![GitHub Badge](https://img.shields.io/github/followers/bhu1tyagi?style=social)](https://github.com/bhu1tyagi)
-
-</div>
 
 <!-- Footer wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
